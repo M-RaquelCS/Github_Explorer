@@ -1,6 +1,7 @@
 <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5d4520b6-4a30-4e39-8716-5e534a7bb5bc%2Fcover-reactjs.png?table=block&id=b9f0f025-c95b-4376-99d0-c3115f55b0f1&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=1920&userId=&cache=v2" />
 
 <p align='center'>
+	<img src="https://img.shields.io/github/license/M-RaquelCS/Github_Explorer?color=%23835afd" alt='license'/>
   <img src="https://img.shields.io/github/forks/M-RaquelCS/Github_Explorer?color=%23835afd" alt='Forks'/>
   <img src="https://img.shields.io/github/stars/M-RaquelCS/Github_Explorer?color=%23835afd" alt='stars'/>
 </p>
